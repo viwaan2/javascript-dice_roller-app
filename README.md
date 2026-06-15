@@ -55,6 +55,8 @@ This project helped practice:
 
 Enter the number of dice you want to roll and click the **Roll Dice** button to generate random dice results instantly.
 
+Preview here! https://viwaan2.github.io/javascript-dice_roller-app/
+
 ## 🔧 How to Run
 
 1. Clone the repository:
